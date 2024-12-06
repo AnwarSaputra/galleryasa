@@ -1,0 +1,79 @@
+*,
+html,
+body {
+    font-family: "Secular One", sans-serif;
+    
+
+}
+/*
+:root {
+    --bg-1: #BBC8E8;
+    --bg-2: #698AE8;
+    --font-1: #2D4286;
+    --font-2: #E1E7F6;
+    --ui-1: #E1E7F6;
+    --underline-gold: #F7DAA9;
+    --bg-event: #606060;
+}
+.container {
+    height: 100vh;
+    width: 100%;
+    background-color: white;
+}
+
+
+
+.container-nav {
+    display: flex;
+    position: relative;
+    left: 4%;
+    padding: 24px;
+    background: none;
+}
+
+.btn-login {
+    display: flex;
+    position: relative;
+    left: 66%;
+    gap: 10px;
+}
+.btn-login-1:hover, .btn-login-2:hover {
+    transition: 0.2s ease-in-out;
+    background-color: var(--bg-2);  
+    border-color: var(--bg-1);
+    color: var(--font-2);
+    border-color: var(--font-1);
+
+}
+
+.btn-login-1 {
+    color: var(--font-1);
+    text-decoration: none;
+    font-size: 20px;
+    padding: 8px 8px;
+    background-color: transparent;
+    border-width: 2px;
+    border-style: solid;
+    border-color: var(--bg-2);
+    border-radius: 12px;
+}
+
+.btn-login-2 {
+    color: var(--font-1);
+    text-decoration: none;
+    font-size: 20px;
+    padding: 8px 8px;
+    background-color: transparent;
+    border-width: 2px;
+    border-style: solid;
+    border-color: var(--bg-2);
+    border-radius: 12px;
+}
+
+
+
+.card {
+    background-color: crimson;
+    height: 100%;
+    width: 100%;
+} */
